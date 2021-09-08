@@ -1,5 +1,6 @@
--I'm mike
--I make games
+- I'm mike
+
+- I make games
 
 <!---
 mikeDFT/mikeDFT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
