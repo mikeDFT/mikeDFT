@@ -6,7 +6,7 @@ I make whatever I can. If I can't, I learn to.
 
 
 
-# Languages and Tools:
+# Languages:
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" height="40"/>
