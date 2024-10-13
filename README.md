@@ -1,8 +1,3 @@
-- I'm mike
+I'm Mike
 
-- I make games
-
-<!---
-mikeDFT/mikeDFT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I make whatever I can, and if I can't, I learn to 
