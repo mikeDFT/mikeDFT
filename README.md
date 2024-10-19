@@ -1,13 +1,12 @@
-# I'm Mike 👋 
+<h1 align="center">I'm Mike 👋</h1>
 
-Highly passionate about programming.
+<h3 align="center">Highly passionate about programming.</h3>
+<h4 align="center">I make whatever I can, and if I can't, I learn to.</h4>
 
-I make whatever I can. If I can't, I learn to.
+</br>
 
-
-
-# Languages:
-<p align="left">
+<h2 align="center">Languages</h2>
+<p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
@@ -16,8 +15,8 @@ I make whatever I can. If I can't, I learn to.
   </a>
 </p>
 
-<h3> Learning: </h3>
-<p align="left">
+<h3 align="center">Learning</h3>
+<p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
